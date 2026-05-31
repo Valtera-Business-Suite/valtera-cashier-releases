@@ -6,4 +6,4 @@ Preuzmite najnoviju verziju sa [Releases](https://github.com/Valtera-Business-Su
 
 ## Trenutna verzija
 
-**v1.0.0** — objavljeno 30.04.2026.
+**v1.0.0** — objavljeno 31.05.2026.
